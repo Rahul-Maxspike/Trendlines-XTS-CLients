@@ -1,0 +1,324 @@
+{
+    "ICICIBANK": {
+        "symbol": "ICICIBANK",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 4963,
+        "Strike": 10,
+        "Wings": 50,
+        "base_qty": 700,
+        "Offset": 2,
+        "freeze_qty": 21001
+        
+        
+    },
+    "HDFCBANK": {
+        "symbol": "HDFCBANK",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 1333,
+        "Strike": 10,
+        "Wings": 50,
+        "base_qty": 550,
+        "Offset": 2,
+        "freeze_qty": 16501
+    },
+    "AXISBANK": {
+        "symbol": "AXISBANK",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 5900,
+        "Strike": 10,
+        "Wings": 50,
+        "base_qty": 625,
+        "Offset": 3,
+        "freeze_qty": 18751
+    },
+    "INDUSINDBK": {
+        "symbol": "INDUSINDBK",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 5258,
+        "Strike": 20,
+        "Wings": 100,
+        "base_qty": 500,
+        "Offset": 3,
+        "freeze_qty": 15001
+    },
+    "SBIN": {
+        "symbol": "SBIN",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 3045,
+        "Strike": 10,
+        "Wings": 40,
+        "base_qty": 750,
+        "Offset": 3,
+        "freeze_qty": 30001
+    },
+    "INFY": {
+        "symbol": "INFY",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 1594,
+        "Strike": 20,
+        "Wings": 80,
+        "base_qty": 400,
+        "Offset": 4,
+        "freeze_qty": 16001
+    },
+    "TCS": {
+        "symbol": "TCS",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 11536,
+        "Strike": 50,
+        "Wings": 200,
+        "base_qty": 175,
+        "Offset": 5,
+        "freeze_qty": 5251
+    },
+    "WIPRO": {
+        "symbol": "WIPRO",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 3787,
+        "Strike": 5,
+        "Wings": 30,
+        "base_qty": 1500,
+        "Offset": 5,
+        "freeze_qty": 45001
+    },
+    "RELIANCE": {
+        "symbol": "RELIANCE",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 2885,
+        "Strike": 20,
+        "Wings": 100,
+        "base_qty": 250,
+        "Offset": 6,
+        "freeze_qty": 7501
+    },
+    "ULTRACEMCO": {
+        "symbol": "ULTRACEMCO",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 11532,
+        "Strike": 100,
+        "Wings": 400,
+        "base_qty": 100,
+        "Offset": 6,
+        "freeze_qty": 3001
+    },
+    "BAJFINANCE": {
+        "symbol": "BAJFINANCE",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 317,
+        "Strike": 100,
+        "Wings": 200,
+        "base_qty": 125,
+        "Offset": 7,
+        "freeze_qty": 3751
+    },
+    "DLF": {
+        "symbol": "DLF",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 14732,
+        "Strike": 10,
+        "Wings": 50,
+        "base_qty": 825,
+        "Offset": 7,
+        "freeze_qty":24751
+    },
+    "LT": {
+        "symbol": "LT",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 11483,
+        "Strike": 50,
+        "Wings": 200,
+        "base_qty": 150,
+        "Offset": 8,
+        "freeze_qty": 6001
+    },
+    "HINDUNILVR": {
+        "symbol": "HINDUNILVR",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 1394,
+        "Strike": 20,
+        "Wings": 120,
+        "base_qty": 300,
+        "Offset": 8,
+        "freeze_qty": 9001
+    },
+    "TATAMOTORS": {
+        "symbol": "TATAMOTORS",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 3456,
+        "Strike": 10,
+        "Wings": 50,
+        "base_qty": 550,
+        "Offset": 9,
+        "freeze_qty": 22001
+    },
+    "TITAN": {
+        "symbol": "TITAN",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 3506,
+        "Strike": 20,
+        "Wings": 100,
+        "base_qty": 175,
+        "Offset": 9,
+        "freeze_qty" : 7001
+    },
+    "MARUTI": {
+        "symbol": "MARUTI",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 10999,
+        "Strike": 100,
+        "Wings": 300,
+        "base_qty": 50,
+        "Offset": 10,
+        "freeze_qty": 2001
+    },
+    "JSWSTEEL": {
+        "symbol": "JSWSTEEL",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 11723,
+        "Strike": 10,
+        "Wings": 50,
+        "base_qty": 675,
+        "Offset": 10,
+        "freeze_qty": 27001
+    },
+    "HINDALCO": {
+        "symbol": "HINDALCO",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 1363,
+        "Strike": 10,
+        "Wings": 40,
+        "base_qty": 1400,
+        "Offset": 11,
+        "freeze_qty": 42001
+    },
+    "ASIANPAINT": {
+        "symbol": "ASIANPAINT",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 236,
+        "Strike": 20,
+        "Wings": 100,
+        "base_qty": 200,
+        "Offset": 11,
+        "freeze_qty": 8001
+    },
+    "BHARTIARTL": {
+        "symbol": "BHARTIARTL",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 10604,
+        "Strike": 20,
+        "Wings": 60,
+        "base_qty": 475,
+        "Offset": 12,
+        "freeze_qty": 14251
+    },
+    "EICHERMOT": {
+        "symbol": "EICHERMOT",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 910,
+        "Strike": 100,
+        "Wings": 300,
+        "base_qty": 175,
+        "Offset": 12,
+        "freeze_qty": 5251
+    },
+    "BAJAJ-AUTO": {
+        "symbol": "BAJAJ-AUTO",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 16669,
+        "Strike": 100,
+        "Wings": 200,
+        "base_qty": 75,
+        "Offset": 13,
+        "freeze_qty": 2251
+    },
+    "HDFCLIFE": {
+        "symbol": "HDFCLIFE",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 467,
+        "Strike": 5,
+        "Wings": 30,
+        "base_qty": 1100,
+        "Offset": 13,
+        "freeze_qty": 33001
+    },
+    "TECHM": {
+        "symbol": "TECHM",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 13538,
+        "Strike": 20,
+        "Wings": 80,
+        "base_qty": 600,
+        "Offset": 14,
+        "freeze_qty": 18001
+    },
+    "TATACHEM": {
+        "symbol": "TATACHEM",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 3405,
+        "Strike": 20,
+        "Wings": 60,
+        "base_qty": 550,
+        "Offset": 14,
+        "freeze_qty": 22001
+    },
+    "SUNPHARMA": {
+        "symbol": "SUNPHARMA",
+        "series": "OPTSTK",
+        "exchangeInstrumentID": 3351,
+        "Strike": 20,
+        "Wings": 60,
+        "base_qty": 350,
+        "Offset": 15,
+        "freeze_qty": 14001
+    },
+    "BANKNIFTY": {
+        "symbol": "BANKNIFTY",
+        "series": "OPTIDX",
+        "exchangeInstrumentID": 26001,
+        "Strike": 100,
+        "Wings": 700,
+        "base_qty": 15,
+        "Offset": 0,
+        "freeze_qty": 900
+    },
+    "FINNIFTY": {
+        "symbol": "FINNIFTY",
+        "series": "OPTIDX",
+        "exchangeInstrumentID": 26034,
+        "Strike": 50,
+        "Wings": 200,
+        "base_qty": 40,
+        "Offset": 0,
+        "freeze_qty": 1800
+    },
+    "NIFTY": {
+        "symbol": "NIFTY",
+        "series": "OPTIDX",
+        "exchangeInstrumentID": 26000,
+        "Strike": 50,
+        "Wings": 100,
+        "base_qty": 50,
+        "Offset": 0,
+        "freeze_qty": 1800
+    },
+    "NIFTY1": {
+        "symbol": "NIFTY",
+        "series": "OPTIDX",
+        "exchangeInstrumentID": 26000,
+        "Strike": 50,
+        "Wings": 100,
+        "base_qty": 75,
+        "Offset": 0,
+        "freeze_qty": 1800
+    },
+    "NIFTY15": {
+        "symbol": "NIFTY",
+        "series": "OPTIDX",
+        "exchangeInstrumentID": 26000,
+        "Strike": 50,
+        "Wings": 100,
+        "base_qty": 75,
+        "Offset": 0,
+        "freeze_qty": 1800
+    }
+}
