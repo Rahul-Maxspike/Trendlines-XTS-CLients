@@ -37,14 +37,14 @@ DF_15MIN_BACK_DAYS = 6
 # Client Master Data
 CLIENT_MASTER = {
     "uri": "http://110.172.21.62:5010",
-    "clientId": "MaxXTSJY2802",
+    "clientId": "MaxAJNI0402",
     "strategyId": "M4A1"
 }
 #
 #
 ########################################################
 #OMS CONSTANTS
-OMS_URI = "http://110.172.21.62:5004/api/v1/orders/"
+OMS_URI = "http://110.172.21.62:7004/api/v1/orders/"
 ########################################################
 # Telegram Bot Constants
 TELEGRAM_BOT_TOKEN = "6418611543:AAFgPRBSBjiaSpcH8pJawpaWUrkjN_AOrto"
