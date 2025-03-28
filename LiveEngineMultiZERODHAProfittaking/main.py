@@ -38,13 +38,13 @@ async def main(instrument_id, equity, strike, wings, base_qty, freeze_qty, serie
     socket = context.socket(zmq.PUB)
     
     # Bind the socket to a TCP address and port
-    socket.bind("tcp://*:5555")  # Binds to all available interfaces on port 5555
-    print("Publisher started and bound to port 5555.")
+    socket.bind("tcp://*:7755")  # Binds to all available interfaces on port 5555
+    print("Publisher started and bound to port 7755.")
 
 
     cmp_socket = context.socket(zmq.PUB)
-    cmp_socket.bind("tcp://*:5556")
-    print("CMP Publisher started and bound to port 5556.")
+    cmp_socket.bind("tcp://*:7756")
+    print("CMP Publisher started and bound to port 7756.")
 
     # Initialize new_equity variable regardless of equity value
     equity = equity.upper()

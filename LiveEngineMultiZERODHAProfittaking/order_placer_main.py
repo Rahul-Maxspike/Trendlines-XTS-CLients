@@ -75,16 +75,16 @@ async def main():
         # Initialize ZeroMQ context and Subscriber socket
         context = zmq.Context()
         socket = context.socket(zmq.SUB)
-        socket.connect("tcp://localhost:5555")  # Assumes Publisher is running on the same machine
+        socket.connect("tcp://localhost:7755")  # Assumes Publisher is running on the same machine
 
         cmp_socket = context.socket(zmq.SUB)
-        cmp_socket.connect("tcp://localhost:5556")
+        cmp_socket.connect("tcp://localhost:7756")
 
         
         socket.setsockopt_string(zmq.SUBSCRIBE, "")
-        print("Subscriber connected to publisher at port 5555.")
+        print("Subscriber connected to publisher at port 7755.")
         cmp_socket.setsockopt_string(zmq.SUBSCRIBE, "")
-        print("CMP Subscriber connected to publisher at port 5556.")
+        print("CMP Subscriber connected to publisher at port 7756.")
 
         
         try:

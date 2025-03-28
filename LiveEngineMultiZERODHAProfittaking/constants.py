@@ -44,7 +44,7 @@ CLIENT_MASTER = {
 #
 ########################################################
 #OMS CONSTANTS
-OMS_URI = "http://110.172.21.62:7004/api/v1/orders/"
+OMS_URI = "http://192.168.1.8:7004/api/v1/orders/"
 ########################################################
 # Telegram Bot Constants
 TELEGRAM_BOT_TOKEN = "6418611543:AAFgPRBSBjiaSpcH8pJawpaWUrkjN_AOrto"

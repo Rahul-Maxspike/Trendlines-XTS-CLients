@@ -113,9 +113,9 @@ class SymphonyInteractiveAPI:
             if response.status_code == 200:
                 data = response.json()
                 if self.__equity == 'NIFTY1':
-                    return 150000
+                    return 300000
                 elif self.__equity == 'NIFTY15': 
-                    return 150000
+                    return 600000
                 else:
                     return 0  
         except Exception as e:
